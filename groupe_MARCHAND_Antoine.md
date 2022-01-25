@@ -6,4 +6,4 @@ groupe numéro : 12
 
 URL du projet github : https://github.com/4ntm4n3/SAE-345.git
 
-URL du site pythonanywhere :
+URL du site pythonanywhere :  4ntm4n3.pythonanywhere.com
